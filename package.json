@@ -14,5 +14,10 @@
   "description": "",
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "nanoid": "^5.0.1",
+    "yargs": "^17.7.2",
+    "yarn": "^1.22.19"
   }
 }
